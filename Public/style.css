@@ -1,0 +1,16 @@
+div {
+	padding-top: 125px;
+	font-family: Helvetica;
+	font-size: 40pt;
+	color: black;
+	text-align: center;
+}
+
+img {
+	position: relative;
+	top: 50%;
+	margin: auto;
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+}
