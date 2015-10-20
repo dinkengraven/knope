@@ -1,10 +1,10 @@
 div {
 	padding-top: 125px;
-	font-family: Helvetica;
+	font-family: Helvetica, sans-serif;
 	font-size: 40pt;
 	color: black;
 	text-align: center;
-} 
+}
 
 img {
 	position: relative;
@@ -13,4 +13,17 @@ img {
 	border-radius: 50%;
 	height: 250px;
 	width: 250px;
+}
+
+footer {
+	position: relative;
+	margin: auto;
+	text-align: center;
+}
+
+#github {
+	font-family: Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #C3C8C9;
+	text-decoration: none;
 }
